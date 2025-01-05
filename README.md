@@ -1,9 +1,9 @@
--  Hi, I’m @harshgaggar19
--  I’m a Web developer
--  I'm proficient in React + vite, TailwindCSS, GSAP, JavaScript etc.
--  I’m currently learning Backend Development
--  I’m looking to collaborate on projects
--  Reach me at harshgaggar19@gmail.com
+# Hey 👋, I'm Harsh!
+
+### Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshgaggar19&layout=compact&theme=one_dark_pro)
+
+---
 
 <!---
 harshgaggar19/harshgaggar19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
