@@ -5,8 +5,9 @@
 </p>
 
 
-<h1 align="center">Hey 👋, I'm Harsh! 
-  <img width="30" height="30" alt="image" src="https://i.pinimg.com/originals/c0/ec/36/c0ec362876040a99a1be29080e572bff.gif" />
+<h1 align="center">
+  Hey 👋, I'm Harsh!
+  <img src="wave.gif" width="24" height="24" style="vertical-align: middle; margin-left: 6px;" />
 </h1>
 
 
@@ -20,22 +21,6 @@
 
 - 📫 How to reach me **harshgaggar19@gmail.com**
 
-<h3 align="center">Connect with me:</h3>
-
-<p align="center">
-  <a href="https://github.com/harshgaggar19">
-    <img src="https://skillicons.dev/icons?i=github&perline=1" />
-  </a>
-  <a href="mailto:harshgaggar19@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&perline=1" />
-  </a>
-  <a href="https://www.linkedin.com/in/harsh-gaggar-444358281">
-    <img src="https://skillicons.dev/icons?i=linkedin&perline=1" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshgaggar19&style=for-the-badge"/>
-</p>
 
 <h1 align="center">TechStack</h3>
 <p align="center">
@@ -64,6 +49,26 @@
 </p>
 
 <hr/>
+
+
+<h3 align="center">Connect with me:</h3>
+
+<p align="center">
+  <a href="https://github.com/harshgaggar19">
+    <img src="https://skillicons.dev/icons?i=github&perline=1" />
+  </a>
+  <a href="mailto:harshgaggar19@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&perline=1" />
+  </a>
+  <a href="https://www.linkedin.com/in/harsh-gaggar-444358281">
+    <img src="https://skillicons.dev/icons?i=linkedin&perline=1" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshgaggar19&style=for-the-badge"/>
+</p>
+</hr>
+
 
 
 
