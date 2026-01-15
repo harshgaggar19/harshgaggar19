@@ -7,7 +7,7 @@
 
 <h1 align="center">
   Hey 👋, I'm Harsh!
-  <img src="wave.gif" width="24" height="24" style="vertical-align: middle; margin-left: 6px;" />
+  <img src="wave.gif" width="34" height="34" style="vertical-align: middle; margin-left: 6px;" />
 </h1>
 
 
